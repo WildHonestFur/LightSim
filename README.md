@@ -1,4 +1,4 @@
-This is a light sim built to understand the way light works and behaves
+This is a light sim built to understand the way light works and behaves.
 You will find two main python files: Light.py and Light_Interactive.py
 
 Light.py is a simulation that goes through all possible paths that light could travel between two media.
